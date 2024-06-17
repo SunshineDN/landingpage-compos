@@ -47,7 +47,6 @@ export const CheckIcon2 = styled(Check)`
 `;
 
 export const Button = styled.a.attrs({
-  href: 'https://wa.me/557121065100',
   target: '_blank'
 })`
   padding: .7rem 3.5rem;

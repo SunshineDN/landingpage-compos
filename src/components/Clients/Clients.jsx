@@ -2,7 +2,7 @@ import * as S from './index';
 import Atakarejo from '../../assets/clients/atakarejo.png';
 import Sabin from '../../assets/clients/sabin.png';
 import Sicoob from '../../assets/clients/sicoob.png';
-import Yatch from '../../assets/clients/yatch.png';
+import Yacht from '../../assets/clients/yacht.svg';
 import { Fragment } from 'react';
 
 
@@ -24,8 +24,8 @@ const Clients = () => {
       description: 'O Sicoob, maior sistema financeiro cooperativo do Brasil, oferece serviços completos, incluindo conta corrente, crédito, investimento, cartões, previdência, consórcio, seguros, cobrança bancária e meios eletrônicos de pagamento.'
     },
     {
-      name: 'Yatch',
-      image: Yatch,
+      name: 'Yacht',
+      image: Yacht,
       description: 'O Yacht Clube da Bahia é um dos mais tradicionais clubes do Brasil. Esporte, vela, pesca, remo, equipes de natação e de maratona aquática.'
     }
   ];

@@ -33,8 +33,9 @@ export const Video = styled.iframe.attrs({
   height: '315',
   title: 'YouTube video player',
   frameBorder: '0',
-  allow: 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
-  allowFullScreen: false,
+  allow: 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share',
+  allowFullScreen: true,
+  referrerpolicy: 'strict-origin-when-cross-origin',
 })`
   border-radius: 1.25rem;
 `;

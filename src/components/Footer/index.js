@@ -58,13 +58,21 @@ export const LocationMailWrapper = styled.div`
   }
 `;
 
-export const Address = styled.p`
-  font-size: 1.125rem;
+export const Address = styled.a.attrs({
+  target: '_blank'
+})`
   color: ${({ theme }) => theme.dark_grey};
-  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.3s;
+  
+  &:hover {
+    color: ${({ theme }) => theme.red};
+  }
 `;
 
 export const RedSpan = styled.span`
+  font-size: 1.125rem;
+  font-weight: 500;
   color: ${({ theme }) => theme.red};
 `;
 
@@ -111,10 +119,12 @@ export const EmailInfo = styled.div`
 
 export const EmailText = styled.p`
   font-size: 1.125rem;
-  color: ${({theme}) => theme.dark_grey};
+  color: ${({ theme }) => theme.dark_grey};
 `;
 
-export const EmailLink = styled.a`
+export const EmailLink = styled.a.attrs({
+  target: '_blank'
+})`
   font-size: 1.125rem;
   color: ${({ theme }) => theme.dark_grey};
   text-decoration: none;
@@ -142,7 +152,9 @@ export const BottomText = styled.p`
   color: ${({ theme }) => theme.black};
 `;
 
-export const BottomLink = styled.a`
+export const BottomLink = styled.a.attrs({
+  target: '_blank'
+})`
   font-size: 1rem;
   color: ${({ theme }) => theme.black};
   text-decoration: none;

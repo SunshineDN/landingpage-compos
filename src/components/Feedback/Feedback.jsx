@@ -1,5 +1,7 @@
 import * as S from './index';
-import Image from '../../assets/feedbacks/profile.jpg';
+import AlessandraPic from '../../assets/feedbacks/alessandra.png';
+import WilliamsPic from '../../assets/feedbacks/williams.png';
+import GabrielPic from '../../assets/feedbacks/gabriel.png';
 
 const Feedback = () => {
   const StarRepeat = (count) => (
@@ -12,21 +14,21 @@ const Feedback = () => {
       rate: 5,
       title: 'Ótima qualidade!',
       desc: 'Empresa extremamente competente! Muitos anos de experiência e sempre com uma solução adequada para os desafios de TI na minha empresa. Indico para amigos e todos me agradecem depois!',
-      img: Image
+      img: AlessandraPic
     },
     {
-      name: 'Williams Sttos',
+      name: 'Williams',
       rate: 5,
       title: 'Atendimento Rápido!',
       desc: 'Passamos anos lidando com perrengues de internet na empresa e buscando inovações, mas a Compos chegou chegando e resolveu tudo! Agradeço demais pela ajuda!',
-      img: Image
+      img: WilliamsPic
     },
     {
       name: 'Gabriel Borges',
       rate: 5,
       title: 'Excelente Trabalho',
       desc: 'Serviço de internet residencial muito bom e atendimento técnico por telefone tbm muito legal. Inclusive aos finais de semana.',
-      img: Image
+      img: GabrielPic
     }
   ];
 

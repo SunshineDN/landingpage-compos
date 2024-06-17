@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import * as S from './index';
 
 const Footer = () => {
@@ -24,6 +25,8 @@ const Footer = () => {
     },
   ];
 
+  const year = useState(new Date().getFullYear());
+
   return (
     <S.FooterContainer>
       <S.ContactContainer>
@@ -33,10 +36,10 @@ const Footer = () => {
             <S.BgIcon>
               <S.LocationIcon />
             </S.BgIcon>
-            <S.Address>
-              <S.RedSpan>Endereço:</S.RedSpan> R. Frederico Simões, 85
-              sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774
-            </S.Address>
+            <S.RedSpan>
+              Endereço: <S.Address href='https://maps.app.goo.gl/TayuVKZELA4AUHaR6'>R. Frederico Simões, 85
+              sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774</S.Address>
+            </S.RedSpan>
           </S.LocationMailWrapper>
           <S.LocationMailWrapper>
             <S.BgIcon>
@@ -54,8 +57,8 @@ const Footer = () => {
         </S.Contact>
       </S.ContactContainer>
       <S.BottomWrapper>
-        <S.BottomText>© 1991 — 2023, Copyright <S.BottomLink href='https://compos.net.br' target='_blank'><S.Bold>Compos</S.Bold></S.BottomLink></S.BottomText>
-        <S.BottomLink href='https://compos.net.br/privacidade' target='_blank'>Política de privacidade</S.BottomLink>
+        <S.BottomText>© 1991 — {year}, Copyright <S.BottomLink href='https://compos.net.br'><S.Bold>Compos</S.Bold></S.BottomLink></S.BottomText>
+        <S.BottomLink href='https://compos.net.br/privacidade.html'>Política de privacidade</S.BottomLink>
       </S.BottomWrapper>
     </S.FooterContainer>
   );
