@@ -51,6 +51,7 @@ Error generating stack: `+i.message+`
 
   @media (max-width: 768px) {
     height: auto;
+    background-position: left;
   }
 `,Xm=_.div`
   display: flex;
