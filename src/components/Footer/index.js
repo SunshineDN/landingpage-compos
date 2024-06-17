@@ -52,6 +52,10 @@ export const LocationMailWrapper = styled.div`
   padding: 1.125rem;
   width: 31.25rem;
   background-color: #fff;
+
+  @media (max-width: 920px) {
+    width: 100%;
+  }
 `;
 
 export const Address = styled.p`
@@ -102,6 +106,7 @@ export const EmailInfo = styled.div`
   width: 100%;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
 `;
 
 export const EmailText = styled.p`
@@ -129,6 +134,7 @@ export const BottomWrapper = styled.div`
   background-color: ${({ theme }) => theme.light_grey};
   padding: 1.25rem 0;
   width: 100%;
+  flex-wrap: wrap;
 `;
 
 export const BottomText = styled.p`
