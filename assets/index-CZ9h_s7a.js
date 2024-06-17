@@ -523,6 +523,10 @@ Error generating stack: `+i.message+`
   padding: 1.125rem;
   width: 31.25rem;
   background-color: #fff;
+
+  @media (max-width: 920px) {
+    width: 100%;
+  }
 `,v1=_.p`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
@@ -553,6 +557,7 @@ Error generating stack: `+i.message+`
   width: 100%;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
 `,k1=_.p`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
@@ -574,6 +579,7 @@ Error generating stack: `+i.message+`
   background-color: ${({theme:e})=>e.light_grey};
   padding: 1.25rem 0;
   width: 100%;
+  flex-wrap: wrap;
 `,_1=_.p`
   font-size: 1rem;
   color: ${({theme:e})=>e.black};
