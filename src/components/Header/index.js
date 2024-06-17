@@ -64,19 +64,3 @@ export const Span = styled.span`
   ${(props) => (props.$red_bold ? 'color: ' + props.theme.red + '; font-weight: 700;' : '')}
   ${(props) => (props.$red ? 'color: ' + props.theme.red + ';' : '')}
 `;
-
-export const HeaderButton = styled.a.attrs({
-  target: '_blank'
-})`
-  padding: .7rem 3.5rem;
-  font-size: 1rem;
-  font-weight: 700;
-  color: ${({ theme }) => theme.white};
-  background-color: ${({ theme }) => theme.red};
-  border: none;
-  border-radius: 2rem;
-  margin-top: 2rem;
-  cursor: pointer;
-  text-transform: uppercase;
-  text-decoration: none;
-`;

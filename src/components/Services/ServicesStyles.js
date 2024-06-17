@@ -45,19 +45,3 @@ export const CheckIcon2 = styled(Check)`
   height: 1.3rem;
   color: ${({ theme }) => theme.red};
 `;
-
-export const Button = styled.a.attrs({
-  target: '_blank'
-})`
-  padding: .7rem 3.5rem;
-  font-size: 1.125rem;
-  font-weight: 700;
-  color: ${({ theme }) => theme.white};
-  background-color: ${({ theme }) => theme.red};
-  border: none;
-  border-radius: 2rem;
-  cursor: pointer;
-  text-transform: uppercase;
-  text-decoration: none;
-  text-align: center;
-`;
