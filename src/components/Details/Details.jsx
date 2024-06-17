@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import * as S from './index';
 
 const Details = () => {
@@ -23,16 +24,16 @@ const Details = () => {
   return (
     <S.Container>
       {detail_list.map((item, idx) => (
-        <>
+        <Fragment key={idx}>
           <S.Line />
-          <S.Details key={idx}>
+          <S.Details>
             <S.Summary>
               {item.summary}
               <S.Arrow />
             </S.Summary>
             {item.details}
           </S.Details>
-        </>
+        </Fragment>
       ))}
     </S.Container>
   );

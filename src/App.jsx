@@ -5,6 +5,7 @@ import Details from './components/Details/Details';
 import Feedback from './components/Feedback/Feedback';
 import Partners from './components/Partners/Partners';
 import Clients from './components/Clients/Clients';
+import Footer from './components/Footer/Footer';
 
 const Container = styled.div`
   width: 100%;
@@ -19,6 +20,7 @@ function App() {
       <Feedback />
       <Partners />
       <Clients />
+      <Footer />
     </Container>
   );
 }

@@ -3,6 +3,7 @@ import Atakarejo from '../../assets/clients/atakarejo.png';
 import Sabin from '../../assets/clients/sabin.png';
 import Sicoob from '../../assets/clients/sicoob.png';
 import Yatch from '../../assets/clients/yatch.png';
+import { Fragment } from 'react';
 
 
 const Clients = () => {
@@ -35,8 +36,8 @@ const Clients = () => {
       <S.Desc> A .COMPOS se orgulha por ter conquistado grandes clientes e parceiros ao longo de sua trajetória. Nosso compromisso é com o cliente e com os resultados alcançados.</S.Desc>
       <S.ClientsWrapper>
         {clients_list.map((client, index) => (
-          <>
-            <S.Client key={index}>
+          <Fragment key={index}>
+            <S.Client>
               <S.ClientLogo src={client.image} alt={client.name} />
               <S.ClientInfo>
                 <S.ClientName>{client.name}</S.ClientName>
@@ -44,7 +45,7 @@ const Clients = () => {
               </S.ClientInfo>
             </S.Client>
             <S.Line $last={index === clients_list.length - 1} />
-          </>
+          </Fragment>
         ))}
       </S.ClientsWrapper>
     </S.Container>

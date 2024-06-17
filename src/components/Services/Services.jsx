@@ -1,7 +1,7 @@
-import IconData from '../../assets/icon_data.svg';
-import IconLink from '../../assets/icon_link.svg';
-import IconService from '../../assets/icon_service.svg';
-import IconWebhome from '../../assets/icon_webhome.svg';
+import IconData from '../../assets/icons/icon_data.svg';
+import IconLink from '../../assets/icons/icon_link.svg';
+import IconService from '../../assets/icons/icon_service.svg';
+import IconWebhome from '../../assets/icons/icon_webhome.svg';
 
 import Item from './Item';
 import * as S from './ServicesStyles';

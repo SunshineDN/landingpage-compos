@@ -30,7 +30,7 @@ export const Details = styled.details`
   width: 100%;
   padding: 1.5rem 0;
   transition: all 0.1s ease;
-  font-size: .9rem;
+  font-size: 1.1rem;
   color: ${({ theme }) => theme.dark_grey};
   font-weight: 500;
 

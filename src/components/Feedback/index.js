@@ -44,10 +44,10 @@ export const Card = styled.div`
   justify-content: space-between;
   padding: 1rem;
   margin: 1rem;
-  border: 1px solid #ccc;
   border-radius: 5px;
-  max-width: 15rem;
+  max-width: 17rem;
   height: 17rem;
+  background-color: #fff;
 `;
 
 export const RateWrapper = styled.div`
@@ -61,6 +61,7 @@ export const StartWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: .2rem;
 `;
 
 export const StarIcon = styled(Star)`
