@@ -485,25 +485,34 @@ Error generating stack: `+i.message+`
   color: ${({theme:e})=>e.white};
   display: flex;
   flex-direction: column;
-`,m1=_.h1`
+  align-items: center;
+`,m1=_.div`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.25rem;
+  width: 73%;
+`,h1=_.h1`
   font-size: 2rem;
   color: ${({theme:e})=>e.red};
-  margin: 0 auto;
-  width: 72%;
+  /* margin: 0 auto;
+  width: 72%; */
 
-  @media (max-width: 768px) {
-    width: auto;
+  @media (max-width: 920px) {
+   margin: 0 auto;
   }
-`,h1=_.div`
+`,g1=_.div`
   display: flex;
-  gap: 1.25rem;
+  gap: 5.25rem;
   margin-top: 1.25rem;
-  background-color: #FFF;
+  /* background-color: #FFF; */
   width: 100%;
-  justify-content: center;
-
-  @media (max-width: 650px) {
+  justify-content: space-between;
+  
+  @media (max-width: 920px) {
    flex-wrap: wrap;
+   gap: 0;
+   justify-content: center;
   }
 `,$a=_.div`
   display: flex;
@@ -513,11 +522,12 @@ Error generating stack: `+i.message+`
   align-items: center;
   padding: 1.125rem;
   width: 31.25rem;
-`,g1=_.p`
+  background-color: #fff;
+`,v1=_.p`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
   font-weight: 500;
-`,v1=_.span`
+`,y1=_.span`
   color: ${({theme:e})=>e.red};
 `,za=_.div`
   display: flex;
@@ -528,25 +538,25 @@ Error generating stack: `+i.message+`
   background-color: ${({theme:e})=>e.red};
   border-radius: 50%;
   padding: .6rem;
-`,y1=_(xh)`
+`,w1=_(xh)`
   width: 2rem;
   height: 2rem;
   color: ${({theme:e})=>e.white};
-`,w1=_(Sh)`
+`,S1=_(Sh)`
   width: 2rem;
   height: 2rem;
   color: ${({theme:e})=>e.white};
-`,S1=_.div`
+`,x1=_.div`
   display: flex;
   gap: 0.625rem;
   font-weight: 500;
   width: 100%;
   align-items: center;
   justify-content: space-between;
-`,x1=_.p`
+`,k1=_.p`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
-`,k1=_.a`
+`,C1=_.a`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
   text-decoration: none;
@@ -556,7 +566,7 @@ Error generating stack: `+i.message+`
   &:hover {
     color: ${({theme:e})=>e.red};
   }
-`,C1=_.div`
+`,E1=_.div`
   display: flex;
   justify-content: center;
   gap: 0 1.625rem;
@@ -564,7 +574,7 @@ Error generating stack: `+i.message+`
   background-color: ${({theme:e})=>e.light_grey};
   padding: 1.25rem 0;
   width: 100%;
-`,E1=_.p`
+`,_1=_.p`
   font-size: 1rem;
   color: ${({theme:e})=>e.black};
 `,La=_.a`
@@ -578,11 +588,11 @@ Error generating stack: `+i.message+`
   &:hover {
     color: ${({theme:e})=>e.red};
   }
-`,_1=_.span`
+`,P1=_.span`
   font-weight: 700;
-`,P1=()=>{const e=[{field:"Email",value:"comercial@compos.net.br",href:"mailto:comercial@compos.net.br"},{field:"Telefone",value:"(71) 2106-5100",href:"tel:+557121065100"},{field:"Instagram",value:"@composnet",href:"https://instagram.com/composnet"},{field:"LinkedIn",value:".COMPOS",href:"https://www.linkedin.com/company/-compos/"}];return g.jsxs(p1,{children:[g.jsx(m1,{children:"Informações de contato"}),g.jsxs(h1,{children:[g.jsxs($a,{children:[g.jsx(za,{children:g.jsx(y1,{})}),g.jsxs(g1,{children:[g.jsx(v1,{children:"Endereço:"})," R. Frederico Simões, 85 sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774"]})]}),g.jsxs($a,{children:[g.jsx(za,{children:g.jsx(w1,{})}),e.map((t,n)=>g.jsxs(S1,{children:[g.jsxs(x1,{children:[t.field,":"]}),g.jsx(k1,{href:t.href,children:t.value})]},n))]})]}),g.jsxs(C1,{children:[g.jsxs(E1,{children:["© 1991 — 2023, Copyright ",g.jsx(La,{href:"https://compos.net.br",target:"_blank",children:g.jsx(_1,{children:"Compos"})})]}),g.jsx(La,{href:"https://compos.net.br/privacidade",target:"_blank",children:"Política de privacidade"})]})]})},j1=_.div`
+`,j1=()=>{const e=[{field:"Email",value:"comercial@compos.net.br",href:"mailto:comercial@compos.net.br"},{field:"Telefone",value:"(71) 2106-5100",href:"tel:+557121065100"},{field:"Instagram",value:"@composnet",href:"https://instagram.com/composnet"},{field:"LinkedIn",value:".COMPOS",href:"https://www.linkedin.com/company/-compos/"}];return g.jsxs(p1,{children:[g.jsxs(m1,{children:[g.jsx(h1,{children:"Informações de contato"}),g.jsxs(g1,{children:[g.jsxs($a,{children:[g.jsx(za,{children:g.jsx(w1,{})}),g.jsxs(v1,{children:[g.jsx(y1,{children:"Endereço:"})," R. Frederico Simões, 85 sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774"]})]}),g.jsxs($a,{children:[g.jsx(za,{children:g.jsx(S1,{})}),e.map((t,n)=>g.jsxs(x1,{children:[g.jsxs(k1,{children:[t.field,":"]}),g.jsx(C1,{href:t.href,children:t.value})]},n))]})]})]}),g.jsxs(E1,{children:[g.jsxs(_1,{children:["© 1991 — 2023, Copyright ",g.jsx(La,{href:"https://compos.net.br",target:"_blank",children:g.jsx(P1,{children:"Compos"})})]}),g.jsx(La,{href:"https://compos.net.br/privacidade",target:"_blank",children:"Política de privacidade"})]})]})},N1=_.div`
   width: 100%;
-`;function N1(){return g.jsxs(j1,{children:[g.jsx(eh,{}),g.jsx(Eh,{}),g.jsx($h,{}),g.jsx(Wh,{}),g.jsx(Jh,{}),g.jsx(f1,{}),g.jsx(P1,{})]})}const $1={red:"#C8102E",white:"#F3F3F3",light_grey:"#E6E6E6",dark_grey:"#767676",black:"#151515"},z1=Ym`
+`;function $1(){return g.jsxs(N1,{children:[g.jsx(eh,{}),g.jsx(Eh,{}),g.jsx($h,{}),g.jsx(Wh,{}),g.jsx(Jh,{}),g.jsx(f1,{}),g.jsx(j1,{})]})}const z1={red:"#C8102E",white:"#F3F3F3",light_grey:"#E6E6E6",dark_grey:"#767676",black:"#151515"},L1=Ym`
   * {
     margin: 0;
     padding: 0;
@@ -595,4 +605,4 @@ Error generating stack: `+i.message+`
     font-style: normal;
     background-color: ${({theme:e})=>e.white};
   }
-`;ll.createRoot(document.getElementById("root")).render(g.jsx(Ie.StrictMode,{children:g.jsxs(Hm,{theme:$1,children:[g.jsx(z1,{}),g.jsx(N1,{})]})}));
+`;ll.createRoot(document.getElementById("root")).render(g.jsx(Ie.StrictMode,{children:g.jsxs(Hm,{theme:z1,children:[g.jsx(L1,{}),g.jsx($1,{})]})}));
