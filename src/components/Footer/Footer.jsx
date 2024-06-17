@@ -25,37 +25,39 @@ const Footer = () => {
   ];
 
   return (
-    <S.Container>
-      <S.Title>Informações de contato</S.Title>
-      <S.Contact>
-        <S.LocationMailWrapper>
-          <S.BgIcon>
-            <S.LocationIcon />
-          </S.BgIcon>
-          <S.Address>
-            <S.RedSpan>Endereço:</S.RedSpan> R. Frederico Simões, 85
-sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774
-          </S.Address>
-        </S.LocationMailWrapper>
-        <S.LocationMailWrapper>
-        <S.BgIcon>
-            <S.EmailIcon />
-          </S.BgIcon>
-          {footer_items.map((item, idx) => (
-            <S.EmailInfo key={idx}>
-              <S.EmailText>
-                {item.field}:
-              </S.EmailText>
-              <S.EmailLink href={item.href}>{item.value}</S.EmailLink>
-            </S.EmailInfo>
-          ))}
-        </S.LocationMailWrapper>
-      </S.Contact>
+    <S.FooterContainer>
+      <S.ContactContainer>
+        <S.Title>Informações de contato</S.Title>
+        <S.Contact>
+          <S.LocationMailWrapper>
+            <S.BgIcon>
+              <S.LocationIcon />
+            </S.BgIcon>
+            <S.Address>
+              <S.RedSpan>Endereço:</S.RedSpan> R. Frederico Simões, 85
+              sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774
+            </S.Address>
+          </S.LocationMailWrapper>
+          <S.LocationMailWrapper>
+            <S.BgIcon>
+              <S.EmailIcon />
+            </S.BgIcon>
+            {footer_items.map((item, idx) => (
+              <S.EmailInfo key={idx}>
+                <S.EmailText>
+                  {item.field}:
+                </S.EmailText>
+                <S.EmailLink href={item.href}>{item.value}</S.EmailLink>
+              </S.EmailInfo>
+            ))}
+          </S.LocationMailWrapper>
+        </S.Contact>
+      </S.ContactContainer>
       <S.BottomWrapper>
         <S.BottomText>© 1991 — 2023, Copyright <S.BottomLink href='https://compos.net.br' target='_blank'><S.Bold>Compos</S.Bold></S.BottomLink></S.BottomText>
         <S.BottomLink href='https://compos.net.br/privacidade' target='_blank'>Política de privacidade</S.BottomLink>
       </S.BottomWrapper>
-    </S.Container>
+    </S.FooterContainer>
   );
 };
 

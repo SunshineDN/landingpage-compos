@@ -1,34 +1,45 @@
 import styled from 'styled-components';
 import { Map, Mail } from 'lucide-react';
 
-export const Container = styled.footer`
+export const FooterContainer = styled.footer`
   width: 100%;
   color: ${({ theme }) => theme.white};
   display: flex;
   flex-direction: column;
+  align-items: center;
+`;
+
+export const ContactContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.25rem;
+  width: 73%;
 `;
 
 export const Title = styled.h1`
   font-size: 2rem;
   color: ${({ theme }) => theme.red};
-  margin: 0 auto;
-  width: 72%;
+  /* margin: 0 auto;
+  width: 72%; */
 
-  @media (max-width: 768px) {
-    width: auto;
+  @media (max-width: 920px) {
+   margin: 0 auto;
   }
 `;
 
 export const Contact = styled.div`
   display: flex;
-  gap: 1.25rem;
+  gap: 5.25rem;
   margin-top: 1.25rem;
-  background-color: #FFF;
+  /* background-color: #FFF; */
   width: 100%;
-  justify-content: center;
-
-  @media (max-width: 650px) {
+  justify-content: space-between;
+  
+  @media (max-width: 920px) {
    flex-wrap: wrap;
+   gap: 0;
+   justify-content: center;
   }
 `;
 
@@ -40,6 +51,7 @@ export const LocationMailWrapper = styled.div`
   align-items: center;
   padding: 1.125rem;
   width: 31.25rem;
+  background-color: #fff;
 `;
 
 export const Address = styled.p`
