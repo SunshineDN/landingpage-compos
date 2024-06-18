@@ -10,46 +10,45 @@ import * as S from './ServicesStyles';
 const Services = () => {
 
   const webhome_list = [
+    'Servidores de Alto Desempenho',
     'Quantidade Ilimitada de E-mails',
     'Segurança no Armazenamento',
-    'Fácil Gerenciamento',
     'Sem Contrato de Fidelidade',
-    'Servidores de Alto Desempenho',
-    'Suporte Especializado',
     '50GB de Armazenamento',
+    'Suporte Especializado',
+    'Fácil Gerenciamento',
   ];
 
   const data_list = [
-    'Data Center Próprio',
     'Conectividade com Redundância',
     'Central de Monitoramento 24h',
-    'Controle de Temperatura',
     'Energia Elétrica Ininterrupta',
     'Sem Contrato de Fidelidade',
+    'Controle de Temperatura',
+    'Data Center Próprio',
   ];
 
   const link_list = [
-    'Até 4 IPs Grátis',
-    'Conexão via Rádio',
-    'Suporte Especializado',
-    'Backbone com Redundância de Operadoras',
     'Mesma Taxa de Transferência Download = Upload',
+    'Backbone com Redundância de Operadoras',
+    'Suporte Especializado',
+    'Conexão via Rádio',
+    'Até 4 IPs Grátis',
   ];
 
   const service_list = [
-    'Intervenções na Estrutura de TI',
-    'Gerenciamento de Velocidade',
-    'Priorização de Tráfego',
+    'Projeto e instalação de infraestrutura de redes pronto para o futuro',
+    'Certificação de sistema de cabeamento estruturado',
+    'Gerenciamento e segurança de redes',
     'Suporte Especializado',
-    'Controle de Acesso',
-    'Service e Firewall',
+    'Firewall Seguro',
   ];
 
   return (
     <>
       <Item id='webhome' title='Hospedagem' box_title='Webhome' video='https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi' image={IconWebhome} color='#b18b8a'>
         <div style={{ width: '100%' }}>
-          <S.Title>OFERTA LIMITADA! 60 DIAS DE HOSPEDAGEM grátis</S.Title>
+          <S.Title>60 DIAS DE HOSPEDAGEM grátis - Oferta valida até 30 de Agosto</S.Title>
           <S.P>Experimente a qualidade da nossa hospedagem premium sem custos por 60 dias. Garanta agora mesmo!</S.P>
         </div>
         <S.P>A <S.Span>.COMPOS</S.Span> é reconhecida por oferecer soluções robustas e confiáveis. Com uma infraestrutura de servidores de alto desempenho e uma equipe de suporte dedicada, proporcionamos uma experiência de hospedagem segura e eficiente, ideal para empresas de todos os portes.</S.P>

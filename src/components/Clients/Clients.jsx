@@ -39,10 +39,7 @@ const Clients = () => {
           <Fragment key={index}>
             <S.Client>
               <S.ClientLogo src={client.image} alt={client.name} />
-              <S.ClientInfo>
-                <S.ClientName>{client.name}</S.ClientName>
                 <S.ClientDesc>{client.description}</S.ClientDesc>
-              </S.ClientInfo>
             </S.Client>
             <S.Line $last={index === clients_list.length - 1} />
           </Fragment>

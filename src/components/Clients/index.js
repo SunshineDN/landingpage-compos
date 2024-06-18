@@ -86,18 +86,20 @@ export const ClientInfo = styled.div`
   }
 `;
 
-export const ClientName = styled.h3`
-  font-size: 1.25rem;
-  font-weight: 700;
-  margin-bottom: 1.25rem;
-`;
+// export const ClientName = styled.h3`
+//   font-size: 1.25rem;
+//   font-weight: 700;
+//   margin-bottom: 1.25rem;
+// `;
 
 export const ClientDesc = styled.p`
   font-size: 1rem;
   color: #666;
   text-align: left;
+  width: 70%;
 
   @media (max-width: 600px) {
-    text-align: center;
+    text-align: justify;
+    width: 100%;
   }
 `;
