@@ -94,7 +94,7 @@ const Services = () => {
           Contrate Agora
         </Button>
       </Item>
-      <Item id='service' title='Redes Locais e Wireless' invert={true} box_title='Service' video='https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi' image={IconService} color='#b18b8a'>
+      <Item id='service' title='Redes Locais e Wireless' invert={true} box_title='Service' video='https://www.youtube.com/embed/P73e8KVlF7c?si=b5LI6HLM03HNl6te' image={IconService} color='#b18b8a'>
         <S.P>Transforme Sua Infraestrutura de Rede com <S.Span>.SERVICE</S.Span>! Obtenha soluções completas em cabeamento estruturado e rede Wi-Fi, garantindo desempenho, segurança e gerenciamento eficiente. Contrate agora e eleve sua conectividade!</S.P>
         <S.P>A <S.Span>.COMPOS</S.Span> é especialista em fornecer soluções de rede personalizadas e eficientes. Com .Service, oferecemos projetos completos, implantação e gerenciamento de redes WAN, LAN, Wi-Fi e cabeadas, garantindo a máxima performance e segurança para a sua empresa.</S.P>
         <S.CheckList>
