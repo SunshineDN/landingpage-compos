@@ -64,7 +64,7 @@ const Services = () => {
           Aproveite Agora
         </Button>
       </Item>
-      <Item id='data' title='Solução em Nuvem' invert={true} box_title='Data' video='https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi' image={IconData} color='#aaaf97'>
+      <Item id='data' title='Solução em Nuvem' invert={true} box_title='Data' video='https://www.youtube.com/embed/Q4W4GSRqWSI?si=dc1hnA9wAt18AqF8' image={IconData} color='#aaaf97'>
         <S.P>Simplifique sua Infraestrutura com Soluções em Nuvem .Data! Acesse suas informações de qualquer lugar com segurança total e sem preocupações com hardware local. Experimente a flexibilidade e eficiência da computação em nuvem! A <S.Span>.COMPOS</S.Span> oferece a solução .Data, projetada para empresas que buscam a modernização e segurança de suas infraestruturas de TI. Nosso data center próprio, combinado com uma rede de conectividade redundante, garante alta disponibilidade e desempenho para seus dados e sistemas.</S.P>
         <S.CheckList>
           {data_list.map((item, idx) => (
