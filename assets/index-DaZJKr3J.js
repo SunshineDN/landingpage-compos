@@ -251,7 +251,7 @@ Error generating stack: `+i.message+`
   width: 1.3rem;
   height: 1.3rem;
   color: ${({theme:e})=>e.red};
-`;const _1=()=>{const e=["Quantidade Ilimitada de E-mails","Segurança no Armazenamento","Fácil Gerenciamento","Sem Contrato de Fidelidade","Servidores de Alto Desempenho","Suporte Especializado","50GB de Armazenamento"],t=["Data Center Próprio","Conectividade com Redundância","Central de Monitoramento 24h","Controle de Temperatura","Energia Elétrica Ininterrupta","Sem Contrato de Fidelidade","Sem Contrato de Fidelidade"],n=["Até 4 IPs Grátis","Conexão via Rádio","Suporte Especializado","Backbone com Redundância de Operadoras","Mesma Taxa de Transferência Download = Upload"],r=["Intervenções na Estrutura de TI","Gerenciamento de Velocidade","Priorização de Tráfego","Suporte Especializado","Controle de Acesso","Service e Firewall"];return g.jsxs(g.Fragment,{children:[g.jsxs(co,{id:"webhome",title:"Hospedagem",box_title:"Webhome",video:"https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi",image:i1,color:"#b18b8a",children:[g.jsxs("div",{style:{width:"100%"},children:[g.jsx(E1,{children:"OFERTA LIMITADA! 60 DIAS DE HOSPEDAGEM grátis"}),g.jsx(cn,{children:"Experimente a qualidade da nossa hospedagem premium sem custos por 60 dias. Garanta agora mesmo!"})]}),g.jsxs(cn,{children:["A ",g.jsx(ht,{children:".COMPOS"})," é reconhecida por oferecer soluções robustas e confiáveis. Com uma infraestrutura de servidores de alto desempenho e uma equipe de suporte dedicada, proporcionamos uma experiência de hospedagem segura e eficiente, ideal para empresas de todos os portes."]}),g.jsx(fo,{children:e.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.WEBHOME%20e%20fiquei%20interessado%20em%20obter%2060%20dias%20gr%C3%A1tis%20de%20hospedagem.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Aproveite Agora"})]}),g.jsxs(co,{id:"data",title:"Solução em Nuvem",invert:!0,box_title:"Data",video:"https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi",image:n1,color:"#aaaf97",children:[g.jsxs(cn,{children:["Simplifique sua Infraestrutura com Soluções em Nuvem .Data! Acesse suas informações de qualquer lugar com segurança total e sem preocupações com hardware local. Experimente a flexibilidade e eficiência da computação em nuvem! A ",g.jsx(ht,{children:".COMPOS"})," oferece a solução .Data, projetada para empresas que buscam a modernização e segurança de suas infraestruturas de TI. Nosso data center próprio, combinado com uma rede de conectividade redundante, garante alta disponibilidade e desempenho para seus dados e sistemas."]}),g.jsx(fo,{children:t.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.DATA%20e%20fiquei%20interessado.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Migrar para a Nuvem Agora"})]}),g.jsxs(co,{id:"link",title:"Internet Corporativa",box_title:"Link",video:"https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi",image:r1,color:"#90a4b1",children:[g.jsx(cn,{children:"Garanta Conectividade Corporativa de Alta Performance com .Link! Experimente uma conexão dedicada via rádio com 100% da velocidade contratada. Tenha a estabilidade e a segurança que sua empresa precisa. A .Compos oferece a solução ideal para empresas que necessitam de alta performance e confiabilidade na conectividade. Nossa tecnologia avançada e infraestrutura robusta garantem uma conexão estável e rápida, com suporte técnico especializado para atender todas as suas necessidades"}),g.jsx(fo,{children:n.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.LINK%20e%20fiquei%20interessado.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Contrate Agora"})]}),g.jsxs(co,{id:"service",title:"Redes Locais e Wireless",invert:!0,box_title:"Service",video:"https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi",image:o1,color:"#b18b8a",children:[g.jsxs(cn,{children:["Transforme Sua Infraestrutura de Rede com ",g.jsx(ht,{children:".SERVICE"}),"! Obtenha soluções completas em cabeamento estruturado e rede Wi-Fi, garantindo desempenho, segurança e gerenciamento eficiente. Contrate agora e eleve sua conectividade!"]}),g.jsxs(cn,{children:["A ",g.jsx(ht,{children:".COMPOS"})," é especialista em fornecer soluções de rede personalizadas e eficientes. Com .Service, oferecemos projetos completos, implantação e gerenciamento de redes WAN, LAN, Wi-Fi e cabeadas, garantindo a máxima performance e segurança para a sua empresa."]}),g.jsx(fo,{children:r.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.SERVICE%20e%20fiquei%20interessado.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Solicite uma Proposta"})]})]})},P1=_.section`
+`;const _1=()=>{const e=["Servidores de Alto Desempenho","Quantidade Ilimitada de E-mails","Segurança no Armazenamento","Sem Contrato de Fidelidade","50GB de Armazenamento","Suporte Especializado","Fácil Gerenciamento"],t=["Conectividade com Redundância","Central de Monitoramento 24h","Energia Elétrica Ininterrupta","Sem Contrato de Fidelidade","Controle de Temperatura","Data Center Próprio"],n=["Mesma Taxa de Transferência Download = Upload","Backbone com Redundância de Operadoras","Suporte Especializado","Conexão via Rádio","Até 4 IPs Grátis"],r=["Projeto e instalação de infraestrutura de redes pronto para o futuro","Certificação de sistema de cabeamento estruturado","Gerenciamento e segurança de redes","Suporte Especializado","Firewall Seguro"];return g.jsxs(g.Fragment,{children:[g.jsxs(co,{id:"webhome",title:"Hospedagem",box_title:"Webhome",video:"https://www.youtube.com/embed/jaagMlcw03o?si=8POxxFmeR8WkapKi",image:i1,color:"#b18b8a",children:[g.jsxs("div",{style:{width:"100%"},children:[g.jsx(E1,{children:"60 DIAS DE HOSPEDAGEM grátis - Oferta valida até 30 de Agosto"}),g.jsx(cn,{children:"Experimente a qualidade da nossa hospedagem premium sem custos por 60 dias. Garanta agora mesmo!"})]}),g.jsxs(cn,{children:["A ",g.jsx(ht,{children:".COMPOS"})," é reconhecida por oferecer soluções robustas e confiáveis. Com uma infraestrutura de servidores de alto desempenho e uma equipe de suporte dedicada, proporcionamos uma experiência de hospedagem segura e eficiente, ideal para empresas de todos os portes."]}),g.jsx(fo,{children:e.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.WEBHOME%20e%20fiquei%20interessado%20em%20obter%2060%20dias%20gr%C3%A1tis%20de%20hospedagem.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Aproveite Agora"})]}),g.jsxs(co,{id:"data",title:"Solução em Nuvem",invert:!0,box_title:"Data",video:"https://www.youtube.com/embed/Q4W4GSRqWSI?si=dc1hnA9wAt18AqF8",image:n1,color:"#aaaf97",children:[g.jsxs(cn,{children:["Simplifique sua Infraestrutura com Soluções em Nuvem .Data! Acesse suas informações de qualquer lugar com segurança total e sem preocupações com hardware local. Experimente a flexibilidade e eficiência da computação em nuvem! A ",g.jsx(ht,{children:".COMPOS"})," oferece a solução .Data, projetada para empresas que buscam a modernização e segurança de suas infraestruturas de TI. Nosso data center próprio, combinado com uma rede de conectividade redundante, garante alta disponibilidade e desempenho para seus dados e sistemas."]}),g.jsx(fo,{children:t.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.DATA%20e%20fiquei%20interessado.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Migrar para a Nuvem Agora"})]}),g.jsxs(co,{id:"link",title:"Internet Corporativa",box_title:"Link",video:"https://www.youtube.com/embed/Z-0jcoTqO5Q?si=5NgcWiYqdE6vJQf5",image:r1,color:"#90a4b1",children:[g.jsx(cn,{children:"Garanta Conectividade Corporativa de Alta Performance com .Link! Experimente uma conexão dedicada via rádio com 100% da velocidade contratada. Tenha a estabilidade e a segurança que sua empresa precisa. A .Compos oferece a solução ideal para empresas que necessitam de alta performance e confiabilidade na conectividade. Nossa tecnologia avançada e infraestrutura robusta garantem uma conexão estável e rápida, com suporte técnico especializado para atender todas as suas necessidades"}),g.jsx(fo,{children:n.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.LINK%20e%20fiquei%20interessado.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Contrate Agora"})]}),g.jsxs(co,{id:"service",title:"Redes Locais e Wireless",invert:!0,box_title:"Service",video:"https://www.youtube.com/embed/P73e8KVlF7c?si=b5LI6HLM03HNl6te",image:o1,color:"#b18b8a",children:[g.jsxs(cn,{children:["Transforme sua Infraestrutura de Rede com ",g.jsx(ht,{children:".SERVICE"}),"! Obtenha soluções completas em cabeamento estruturado e rede Wi-Fi, garantindo desempenho, segurança e gerenciamento eficiente. Contrate agora e eleve sua conectividade!"]}),g.jsxs(cn,{children:["A ",g.jsx(ht,{children:".COMPOS"})," é especialista em fornecer soluções de rede personalizadas e eficientes. Com .Service, oferecemos projetos completos, implantação e gerenciamento de redes WAN, LAN, Wi-Fi e cabeadas, garantindo a máxima performance e segurança para a sua empresa."]}),g.jsx(fo,{children:r.map((o,i)=>g.jsxs(po,{children:[g.jsx(ht,{children:o}),g.jsx(mo,{})]},i))}),g.jsx(ur,{href:"https://wa.me/557121065100?text=Ol%C3%A1%2C%20vi%20o%20an%C3%BAncio%20do%20.SERVICE%20e%20fiquei%20interessado.%20Pode%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F",children:"Solicite uma Proposta"})]})]})},P1=_.section`
   width: 70%;
   display: flex;
   flex-direction: column;
@@ -411,7 +411,7 @@ Error generating stack: `+i.message+`
 `,J1=_.img`
   width: 9.375rem;
   height: 9.375rem;
-`,b1="/landingpage-compos/assets/Ruckus-r_arI0FX.svg",eh="/landingpage-compos/assets/commscope-CDqfvsVd.svg",th=()=>{const e=[{id:1,logo:b1,alt:"Ruckus"},{id:2,logo:eh,alt:"CommScope"}];return g.jsxs(Y1,{children:[g.jsx(Z1,{children:"Parceiros"}),g.jsx(X1,{children:"Nossos parceiros que contribuem para nossas soluções em cabeamento estruturado e redes wireless."}),g.jsx(q1,{children:e.map(t=>g.jsx(J1,{src:t.logo,alt:t.alt},t.id))})]})},nh=_.section`
+`,b1="/landingpage-compos/assets/Ruckus-D6tywGVZ.svg",eh="/landingpage-compos/assets/commscope-Bt2QgPfv.svg",th=()=>{const e=[{id:1,logo:b1,alt:"Ruckus"},{id:2,logo:eh,alt:"CommScope"}];return g.jsxs(Y1,{children:[g.jsx(Z1,{children:"Parceiros"}),g.jsx(X1,{children:"Nossos parceiros que contribuem para nossas soluções em cabeamento estruturado e redes wireless."}),g.jsx(q1,{children:e.map(t=>g.jsx(J1,{src:t.logo,alt:t.alt},t.id))})]})},nh=_.section`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -470,7 +470,7 @@ Error generating stack: `+i.message+`
   @media (max-width: 600px) {
     margin-bottom: 1.25rem;
   }
-`,ah=_.div`
+`;_.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -481,31 +481,29 @@ Error generating stack: `+i.message+`
     align-items: center;
     width: 100%
   }
-`,ch=_.h3`
-  font-size: 1.25rem;
-  font-weight: 700;
-  margin-bottom: 1.25rem;
-`,dh=_.p`
+`;const ah=_.p`
   font-size: 1rem;
   color: #666;
   text-align: left;
+  width: 70%;
 
   @media (max-width: 600px) {
-    text-align: center;
+    text-align: justify;
+    width: 100%;
   }
-`,fh="/landingpage-compos/assets/atakarejo-BKt6nDZi.png",ph="/landingpage-compos/assets/sabin-BKTVq40r.png",mh="/landingpage-compos/assets/sicoob-CgCRMzt-.png",hh="/landingpage-compos/assets/yacht-CYyt9cvy.svg",gh=()=>{const e=[{name:"Atakarejo",image:fh,description:"O Grupo Atakarejo é uma empresa brasileira do ramo de supermercados com sede em Salvador, Bahia."},{name:"Sabin",image:ph,description:"O Grupo Sabin é uma empresa brasileira do setor de medicina diagnóstica. Fundado em 1984, o grupo atua em diversas áreas, como laboratórios de análises clínicas, medicina personalizada e genômica."},{name:"Sicoob",image:mh,description:"O Sicoob, maior sistema financeiro cooperativo do Brasil, oferece serviços completos, incluindo conta corrente, crédito, investimento, cartões, previdência, consórcio, seguros, cobrança bancária e meios eletrônicos de pagamento."},{name:"Yacht",image:hh,description:"O Yacht Clube da Bahia é um dos mais tradicionais clubes do Brasil. Esporte, vela, pesca, remo, equipes de natação e de maratona aquática."}];return g.jsxs(nh,{children:[g.jsx(rh,{children:"Clientes"}),g.jsx(oh,{children:" A .COMPOS se orgulha por ter conquistado grandes clientes e parceiros ao longo de sua trajetória. Nosso compromisso é com o cliente e com os resultados alcançados."}),g.jsx(ih,{children:e.map((t,n)=>g.jsxs(de.Fragment,{children:[g.jsxs(uh,{children:[g.jsx(sh,{src:t.image,alt:t.name}),g.jsxs(ah,{children:[g.jsx(ch,{children:t.name}),g.jsx(dh,{children:t.description})]})]}),g.jsx(lh,{$last:n===e.length-1})]},n))})]})},vh=_.footer`
+`,ch="/landingpage-compos/assets/atakarejo-BKt6nDZi.png",dh="/landingpage-compos/assets/sabin-BKTVq40r.png",fh="/landingpage-compos/assets/sicoob-CgCRMzt-.png",ph="/landingpage-compos/assets/yacht-CYyt9cvy.svg",mh=()=>{const e=[{name:"Atakarejo",image:ch,description:"O Grupo Atakarejo é uma empresa brasileira do ramo de supermercados com sede em Salvador, Bahia."},{name:"Sabin",image:dh,description:"O Grupo Sabin é uma empresa brasileira do setor de medicina diagnóstica. Fundado em 1984, o grupo atua em diversas áreas, como laboratórios de análises clínicas, medicina personalizada e genômica."},{name:"Sicoob",image:fh,description:"O Sicoob, maior sistema financeiro cooperativo do Brasil, oferece serviços completos, incluindo conta corrente, crédito, investimento, cartões, previdência, consórcio, seguros, cobrança bancária e meios eletrônicos de pagamento."},{name:"Yacht",image:ph,description:"O Yacht Clube da Bahia é um dos mais tradicionais clubes do Brasil. Esporte, vela, pesca, remo, equipes de natação e de maratona aquática."}];return g.jsxs(nh,{children:[g.jsx(rh,{children:"Clientes"}),g.jsx(oh,{children:" A .COMPOS se orgulha por ter conquistado grandes clientes e parceiros ao longo de sua trajetória. Nosso compromisso é com o cliente e com os resultados alcançados."}),g.jsx(ih,{children:e.map((t,n)=>g.jsxs(de.Fragment,{children:[g.jsxs(uh,{children:[g.jsx(sh,{src:t.image,alt:t.name}),g.jsx(ah,{children:t.description})]}),g.jsx(lh,{$last:n===e.length-1})]},n))})]})},hh=_.footer`
   width: 100%;
   color: ${({theme:e})=>e.white};
   display: flex;
   flex-direction: column;
   align-items: center;
-`,yh=_.div`
+`,gh=_.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 1.25rem;
   width: 73%;
-`,wh=_.h1`
+`,vh=_.h1`
   font-size: 2rem;
   color: ${({theme:e})=>e.red};
   /* margin: 0 auto;
@@ -514,7 +512,7 @@ Error generating stack: `+i.message+`
   @media (max-width: 920px) {
    margin: 0 auto;
   }
-`,Sh=_.div`
+`,yh=_.div`
   display: flex;
   gap: 5.25rem;
   margin-top: 1.25rem;
@@ -540,7 +538,7 @@ Error generating stack: `+i.message+`
   @media (max-width: 920px) {
     width: 100%;
   }
-`,xh=_.a.attrs({target:"_blank"})`
+`,wh=_.a.attrs({target:"_blank"})`
   color: ${({theme:e})=>e.dark_grey};
   cursor: pointer;
   transition: color 0.3s;
@@ -548,7 +546,7 @@ Error generating stack: `+i.message+`
   &:hover {
     color: ${({theme:e})=>e.red};
   }
-`,kh=_.span`
+`,Sh=_.span`
   font-size: 1.125rem;
   font-weight: 500;
   color: ${({theme:e})=>e.red};
@@ -561,15 +559,15 @@ Error generating stack: `+i.message+`
   background-color: ${({theme:e})=>e.red};
   border-radius: 50%;
   padding: .6rem;
-`,Ch=_(k1)`
+`,xh=_(k1)`
   width: 2rem;
   height: 2rem;
   color: ${({theme:e})=>e.white};
-`,Eh=_(x1)`
+`,kh=_(x1)`
   width: 2rem;
   height: 2rem;
   color: ${({theme:e})=>e.white};
-`,_h=_.div`
+`,Ch=_.div`
   display: flex;
   gap: 0.625rem;
   font-weight: 500;
@@ -577,10 +575,10 @@ Error generating stack: `+i.message+`
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-`,Ph=_.p`
+`,Eh=_.p`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
-`,jh=_.a.attrs({target:"_blank"})`
+`,_h=_.a.attrs({target:"_blank"})`
   font-size: 1.125rem;
   color: ${({theme:e})=>e.dark_grey};
   text-decoration: none;
@@ -590,7 +588,7 @@ Error generating stack: `+i.message+`
   &:hover {
     color: ${({theme:e})=>e.red};
   }
-`,$h=_.div`
+`,Ph=_.div`
   display: flex;
   justify-content: center;
   gap: 0 1.625rem;
@@ -599,7 +597,7 @@ Error generating stack: `+i.message+`
   padding: 1.25rem 0;
   width: 100%;
   flex-wrap: wrap;
-`,Nh=_.p`
+`,jh=_.p`
   font-size: 1rem;
   color: ${({theme:e})=>e.black};
 `,za=_.a.attrs({target:"_blank"})`
@@ -613,11 +611,11 @@ Error generating stack: `+i.message+`
   &:hover {
     color: ${({theme:e})=>e.red};
   }
-`,zh=_.span`
+`,$h=_.span`
   font-weight: 700;
-`,Lh=()=>{const e=[{field:"Email",value:"comercial@compos.net.br",href:"mailto:comercial@compos.net.br"},{field:"Telefone",value:"(71) 2106-5100",href:"tel:+557121065100"},{field:"Instagram",value:"@composnet",href:"https://instagram.com/composnet"},{field:"LinkedIn",value:".COMPOS",href:"https://www.linkedin.com/company/-compos/"}],t=de.useState(new Date().getFullYear());return g.jsxs(vh,{children:[g.jsxs(yh,{children:[g.jsx(wh,{children:"Informações de contato"}),g.jsxs(Sh,{children:[g.jsxs($a,{children:[g.jsx(Na,{children:g.jsx(Ch,{})}),g.jsxs(kh,{children:["Endereço: ",g.jsx(xh,{href:"https://maps.app.goo.gl/TayuVKZELA4AUHaR6",children:"R. Frederico Simões, 85 sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774"})]})]}),g.jsxs($a,{children:[g.jsx(Na,{children:g.jsx(Eh,{})}),e.map((n,r)=>g.jsxs(_h,{children:[g.jsxs(Ph,{children:[n.field,":"]}),g.jsx(jh,{href:n.href,children:n.value})]},r))]})]})]}),g.jsxs($h,{children:[g.jsxs(Nh,{children:["© 1991 — ",t,", Copyright ",g.jsx(za,{href:"https://compos.net.br",children:g.jsx(zh,{children:"Compos"})})]}),g.jsx(za,{href:"https://compos.net.br/privacidade.html",children:"Política de privacidade"})]})]})},Th=_.div`
+`,Nh=()=>{const e=[{field:"Email",value:"comercial@compos.net.br",href:"mailto:comercial@compos.net.br"},{field:"Telefone",value:"(71) 2106-5100",href:"tel:+557121065100"},{field:"Instagram",value:"@composnet",href:"https://instagram.com/composnet"},{field:"LinkedIn",value:".COMPOS",href:"https://www.linkedin.com/company/-compos/"}],t=de.useState(new Date().getFullYear());return g.jsxs(hh,{children:[g.jsxs(gh,{children:[g.jsx(vh,{children:"Informações de contato"}),g.jsxs(yh,{children:[g.jsxs($a,{children:[g.jsx(Na,{children:g.jsx(xh,{})}),g.jsxs(Sh,{children:["Endereço: ",g.jsx(wh,{href:"https://maps.app.goo.gl/TayuVKZELA4AUHaR6",children:"R. Frederico Simões, 85 sala 1101 - Caminho das Árvores, Salvador - BA, 41820-774"})]})]}),g.jsxs($a,{children:[g.jsx(Na,{children:g.jsx(kh,{})}),e.map((n,r)=>g.jsxs(Ch,{children:[g.jsxs(Eh,{children:[n.field,":"]}),g.jsx(_h,{href:n.href,children:n.value})]},r))]})]})]}),g.jsxs(Ph,{children:[g.jsxs(jh,{children:["© 1991 — ",t,", Copyright ",g.jsx(za,{href:"https://compos.net.br",children:g.jsx($h,{children:"Compos"})})]}),g.jsx(za,{href:"https://compos.net.br/privacidade.html",children:"Política de privacidade"})]})]})},zh=_.div`
   width: 100%;
-`;function Ih(){return g.jsxs(Th,{children:[g.jsx(t1,{}),g.jsx(_1,{}),g.jsx(z1,{}),g.jsx(K1,{}),g.jsx(th,{}),g.jsx(gh,{}),g.jsx(Lh,{})]})}const Rh={red:"#C8102E",white:"#F3F3F3",light_grey:"#E6E6E6",dark_grey:"#767676",black:"#151515"},Oh=Gm`
+`;function Lh(){return g.jsxs(zh,{children:[g.jsx(t1,{}),g.jsx(_1,{}),g.jsx(z1,{}),g.jsx(K1,{}),g.jsx(th,{}),g.jsx(mh,{}),g.jsx(Nh,{})]})}const Th={red:"#C8102E",white:"#F3F3F3",light_grey:"#E6E6E6",dark_grey:"#767676",black:"#151515"},Ih=Gm`
   * {
     margin: 0;
     padding: 0;
@@ -630,4 +628,4 @@ Error generating stack: `+i.message+`
     font-style: normal;
     background-color: ${({theme:e})=>e.white};
   }
-`;il.createRoot(document.getElementById("root")).render(g.jsx(Ie.StrictMode,{children:g.jsxs(Wm,{theme:Rh,children:[g.jsx(Oh,{}),g.jsx(Ih,{})]})}));
+`;il.createRoot(document.getElementById("root")).render(g.jsx(Ie.StrictMode,{children:g.jsxs(Wm,{theme:Th,children:[g.jsx(Ih,{}),g.jsx(Lh,{})]})}));
